@@ -21,12 +21,12 @@ cd -
 
 git clone	https://github.com/tripledev/ckanext-datapreview
 cd ckanext-datapreview
-git checkout master
+git checkout look_feel_est
 cd -
 
 git clone	https://github.com/tripledev/ckanext-dgu
 cd ckanext-dgu
-git checkout master
+git checkout look_feel_est
 ln -s ../commit-msg.githook ./.git/hooks/commit-msg
 cd -
 
@@ -37,12 +37,12 @@ cd -
 
 git clone	https://github.com/tripledev/ckanext-ga-report
 cd ckanext-ga-report
-git checkout master
+git checkout look_feel_est
 cd -
 
 git clone	https://github.com/tripledev/ckanext-harvest
 cd ckanext-harvest
-git checkout 2.0
+git checkout look_feel_est
 cd -
 
 git clone	https://github.com/tripledev/ckanext-hierarchy
@@ -67,7 +67,7 @@ cd -
 
 git clone	https://github.com/tripledev/ckanext-spatial
 cd ckanext-spatial
-git checkout dgu
+git checkout look_feel_est
 cd -
 
 git clone	https://github.com/tripledev/ckanext-importlib
@@ -77,7 +77,7 @@ cd -
 
 git clone	https://github.com/tripledev/shared_dguk_assets
 cd shared_dguk_assets
-git checkout master
+git checkout look_feel_est
 cd -
 
 git clone   https://github.com/tripledev/logreporter
@@ -87,6 +87,6 @@ cd -
 
 git clone   https://github.com/tripledev/dgu_d7.git
 cd dgu_d7
-git checkout master
+git checkout look_feel_est
 cd -
 
