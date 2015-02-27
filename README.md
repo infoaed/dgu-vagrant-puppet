@@ -12,7 +12,7 @@ with the below instructions and scripts.
 
 **NB! The correct branch to install from is the "togo" branch.**
 
-**NB! The below instructions have been forked from data.gov.uk. For  more detailed instructions with the specifics of opendata.riik.ee, please refer to the relevant OpenOffice document in the root of this repository.**
+**NB! The below instructions have been forked from data.gov.uk. For  more detailed instructions with the specifics of opendata.riik.ee, please refer to the relevant estonian-language OpenOffice document in the root of this repository.**
 
 ## Installation process overview
 
