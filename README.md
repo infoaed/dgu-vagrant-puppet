@@ -1,12 +1,17 @@
-# Data.gov.uk To Go
+# Open data portal to go
 
-This repo provides scripts to install a copy of data.gov.uk's website to your own server. Rebrand it and you have a fully-featured government open data portal.
+This repo provides scripts to install a copy of opendata.riik.ee's website to your own server.
 
 ## About
 
-The UK Government has contributed Data.gov.uk To Go to Github to kick-start the use and development of common open data portal software, beyond the basic CKAN. UK wants to develop it in partnership with other providers of Open Data portals, through the usual Open Source / Github model of forking, pull requests, issues etc. that everyone is encouraged to contribute to.
+opendata.riik.ee is the Estonian open data portal.
+It is based on the software of data.gov.uk (DGU) which is the open data portal of UK.
+All of opendata.riik.ee's components have been forked from their DGU counterparts.
+The components don't have to be installed one-by-one. They can all be installed in one go
+with the below instructions and scripts.
 
-![Demo image](ckan_sample_data.png)
+**IMPORTANT** The correct branch to install from is the "togo" branch.
+**IMPORTANT** For a lot more detailed instructions in estonian language, please refer to the relevant OpenOffice document in the root of this repository.
 
 ## Overview
 
