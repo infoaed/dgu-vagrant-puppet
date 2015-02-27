@@ -11,6 +11,7 @@ The components don't have to be installed one-by-one. They can all be installed 
 with the below instructions and scripts.
 
 **IMPORTANT** The correct branch to install from is the "togo" branch.
+
 **IMPORTANT** For a lot more detailed instructions in estonian language, please refer to the relevant OpenOffice document in the root of this repository.
 
 ## Overview
