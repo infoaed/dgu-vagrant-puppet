@@ -10,11 +10,11 @@ All of opendata.riik.ee's components have been forked from their DGU counterpart
 The components don't have to be installed one-by-one. They can all be installed in one go
 with the below instructions and scripts.
 
-**IMPORTANT** The correct branch to install from is the "togo" branch.
+**NB! The correct branch to install from is the "togo" branch.**
 
-**IMPORTANT** For a lot more detailed instructions in estonian language, please refer to the relevant OpenOffice document in the root of this repository.
+**NB! The below instructions have been forked from data.gov.uk. For  more detailed instructions with the specifics of opendata.riik.ee, please refer to the relevant OpenOffice document in the root of this repository.**
 
-## Overview
+## Installation process overview
 
 Here is an overview of the install process:
 
@@ -27,9 +27,9 @@ Here is an overview of the install process:
 
 ## Suggested system requirements
 
-* 24GB RAM
-* 8 cores
-* 200GB disc
+* 16GB RAM
+* 4 cores
+* 100GB disc
 
 ## 1. Machine preparation & CKAN install
 
